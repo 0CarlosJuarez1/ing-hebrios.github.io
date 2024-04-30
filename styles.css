@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.download-section {
+    margin-bottom: 50px;
+}
+
+.download-section h2 {
+    font-size: 24px;
+}
+
+.download-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.download-section ul li {
+    margin-bottom: 10px;
+}
+
+.download-section ul li a {
+    color: #333;
+    text-decoration: none;
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+
