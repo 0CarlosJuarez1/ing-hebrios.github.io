@@ -41,5 +41,29 @@ main {
     display: inline-block;
 }
 
+.download-section2 {
+    margin-bottom: 50px;
+}
 
+.download-section2 h2 {
+    font-size: 24px;
+}
+
+.download-section2 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.download-section2 ul li {
+    margin-bottom: 10px;
+}
+
+.download-section2 ul li a {
+    color: #333;
+    text-decoration: none;
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
 
