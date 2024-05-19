@@ -35,7 +35,7 @@ main {
 .download-section ul li a {
     color: #333;
     text-decoration: none;
-    background-color: #f2f2f2;
+    background-color: #ADD8E6;
     padding: 10px 20px;
     border-radius: 5px;
     display: inline-block;
@@ -61,7 +61,7 @@ main {
 .download-section2 ul li a {
     color: #333;
     text-decoration: none;
-    background-color: #f2f2f2;
+    background-color: #804000 ;
     padding: 10px 20px;
     border-radius: 5px;
     display: inline-block;
@@ -81,6 +81,15 @@ main {
 
 .video-section ul li {
     margin-bottom: 10px;
+}
+
+.video-section ul li a.youtube {
+    color: #333;
+    text-decoration: none;
+    background-color: #ff6961;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
 }
 
 .video-section ul li a {
