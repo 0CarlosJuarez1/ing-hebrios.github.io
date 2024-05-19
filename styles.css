@@ -66,4 +66,28 @@ main {
     border-radius: 5px;
     display: inline-block;
 }
+.video-section {
+    margin-bottom: 50px;
+}
 
+.video-section h2 {
+    font-size: 24px;
+}
+
+.video-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.video-section ul li {
+    margin-bottom: 10px;
+}
+
+.video-section ul li a {
+    color: #333;
+    text-decoration: none;
+    background-color: #ea899a;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
