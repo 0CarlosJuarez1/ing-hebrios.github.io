@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: yellow;
+    background-color: FFFF00;
 }
 
 body::after {
     content: "";
-    background-color: rgba(0, 0, 0, 0.78);
+    background-color: rgba(0, 0, 0, 0.45);
     position: fixed;
     top: 0;
     left: 0;
